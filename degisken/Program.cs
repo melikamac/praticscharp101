@@ -80,7 +80,6 @@ namespace degisken
 
             string hour = DateTime.Now.ToString("hh:mm");
             Console.WriteLine(hour);  
-
         }
     }
 }
