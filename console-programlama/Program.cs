@@ -11,7 +11,7 @@ namespace console_programlama
             string name = Console.ReadLine();
             Console.WriteLine("Soyisminizi Girin:");
             string surName = Console.ReadLine();
-            Console.WriteLine("Merhaba "+ name + " " + surName);
+            Console.WriteLine("Merhaba " + name + " " + surName);
         }
     }
 }
