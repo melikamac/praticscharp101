@@ -10,7 +10,7 @@ ArrayList asalSayi = new ArrayList();
 ArrayList normalSayi = new ArrayList();
 int kontrol = 0;
 
-for (int i = 1; i <= 4; i++)
+for (int i = 1; i <= 20; i++)
 {   
     Console.Write("{0}.Sayıyı giriniz:",i);    
     bas:
