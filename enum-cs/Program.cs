@@ -20,6 +20,7 @@ namespace enum_cs
             }
         }
     }
+    
     enum Gunler
     {
         Pazartesi=1,
@@ -31,6 +32,7 @@ namespace enum_cs
         Pazar
     }
     enum HavaDurumu
+    
     {
         Soguk =5,
         Normal = 20,
