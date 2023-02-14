@@ -1,6 +1,6 @@
 namespace interface_ornek
 {
-    public class Focus
+    public class Focus : IOtomobil
     {
         public Marka HangiMarkaninAraci()
         {

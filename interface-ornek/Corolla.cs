@@ -1,6 +1,6 @@
 namespace interface_ornek
 {
-    public class Corolla 
+    public class Corolla : IOtomobil
     {
         public Marka HangiMarkaninAraci()
         {
